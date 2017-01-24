@@ -23,7 +23,7 @@
 
       <header>
         <div class="cabecera">
-          <img src="" alt="Cabecera">
+          <img src="images/logos/prensalogo.jpg" alt="Cabecera">
         </div>
         <nav>
           <ul>
