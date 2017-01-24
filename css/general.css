@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+header{
+  text-align: left;
+  border: dashed 1px grey;
+  margin-bottom: 5px;
+}
+
+ul>li{
+  list-style-type: none;
+  display: inline;
+  padding-right: 10px;
+}
+
+a:link{
+  text-decoration: none;
+  color: red;
+}
+
+footer{
+  text-align: right;
+  color: red;
+  border: dashed 1px grey;
+}
+
+.contenedor{
+    max-width: 90%;
+    margin: auto;
+}
+
+.contenedorbanner{
+  width: 100%;
+  text-align: center;
+}
+
+.bannerchico,.bannergrande{
+  display: inline-block;
+  width: 20%;
+  height: 150px;
+  text-align: center;
+  border: dashed 1px grey;
+  margin-bottom: 5px;
+}
+
+.bannergrande{
+  width: 58.5%;
+}
+
+.contenido{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 5px;
+}
