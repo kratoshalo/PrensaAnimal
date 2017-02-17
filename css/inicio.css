@@ -1,0 +1,15 @@
+aside.publeft,aside.pubder,section#noticias{
+  box-sizing: border-box;
+  border: 1px dashed red;
+  padding: 0.25em;
+  margin: 0.25em auto;
+  display: inline-block;
+}
+
+aside.publeft,aside.pubder{
+  width: 25%;
+}
+
+section#noticias{
+  width: 48%;
+}
